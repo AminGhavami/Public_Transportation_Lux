@@ -1,0 +1,11 @@
+pandas>=1.5
+geopandas>=0.15
+networkx>=3.0
+matplotlib>=3.5
+numpy>=1.24
+gtfs_kit>=0.6
+shapely>=2.0
+scipy
+scikit-learn
+tqdm
+
