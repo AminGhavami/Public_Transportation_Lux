@@ -48,7 +48,7 @@ python scripts/run_analysis.py --gtfs data/gtfs-luxembourg.zip --grid data/state
 ```
 
 
-Or open `notebooks/Transport_clean.ipynb` and run interactively.
+Or open `notebooks/Lux_Transport.ipynb` and run interactively.
 
 ## License
 
