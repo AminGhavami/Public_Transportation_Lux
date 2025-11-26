@@ -13,19 +13,19 @@ Key idea: add walking-transfer edges between stops within a threshold (e.g., 200
 
 ## Repo structure
 
-Public_Transportation_Lux/
-├─ notebooks/
-│ └─ Lux_transport.ipynb
-├─ src/
-│ ├─ gtfs_loader.py
-│ ├─ graph_builder.py
-│ ├─ analysis.py
-│ └─ viz.py
-├─ scripts/
-│ └─ run_analysis.py
-├─ data/ # NOT included in repo; put GTFS zip and STATEC shapefiles here
-├─ requirements.txt
-└─ README.md
+Public_Transportation_Lux/\
+├─ notebooks/\
+│ └─ Lux_transport.ipynb\
+├─ src/  
+│ ├─ gtfs_loader.py\
+│ ├─ graph_builder.py\
+│ ├─ analysis.py\
+│ └─ viz.py\
+├─ scripts/\
+│ └─ run_analysis.py\
+├─ data/ # NOT included in repo; put GTFS zip and STATEC shapefiles here\
+├─ requirements.txt\
+└─ README.md\
 
 
 ## Quickstart
