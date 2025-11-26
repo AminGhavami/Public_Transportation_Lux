@@ -25,7 +25,7 @@ Public_Transportation_Lux/\
 │ └─ run_analysis.py\
 ├─ data/ # NOT included in repo; put GTFS zip and STATEC shapefiles here\
 ├─ requirements.txt\
-└─ README.md\
+└─ README.md
 
 
 ## Quickstart
